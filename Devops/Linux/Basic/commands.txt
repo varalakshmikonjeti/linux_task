@@ -1,0 +1,22 @@
+mkdir    --> to create a directory
+cd       --> to switch directory
+cd ..    --> to switch back to previous directory
+touch    --> to create files
+pwd      --> (present working directory) path of present directory
+ls       --> list all files and directories
+rmdir    --> (remove directory)to delete the empty directory
+rm       --> (remove files) to delete files
+cat      --> to see the content in the files
+echo     --> to print
+man      --> mannual of commands
+whoami   --> who is the user of the file
+clear    --> to clear screen
+history  --> to see the history of commands
+rm -r directoryname --> to delete directory and its files
+vi fname/nane fname --> to edit files
+           
+                          FLAGS
+
+ls fname/-l --> (with permission)/-a --> (to see hidden files and directories)
+mkdir name/dir1 dir2 dirn/-p dir/subdir/subdir
+touch fname/f1 f2 f3/fname {1..n}.extension

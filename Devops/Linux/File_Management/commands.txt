@@ -1,0 +1,4 @@
+
+mv fname directory --> for moving a file
+mv oldfname newfname --> to rename a file
+cp fname directory --> for copying a file
